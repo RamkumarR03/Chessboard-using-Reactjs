@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/RamkumarR03/Chessboard-using-Reactjs/static/css/main.45dcc111.css",
+    "main.js": "/RamkumarR03/Chessboard-using-Reactjs/static/js/main.ffa9af29.js",
+    "static/media/whitequeen.png": "/RamkumarR03/Chessboard-using-Reactjs/static/media/whitequeen.a581007216ed615a4ab5.png",
+    "static/media/blackhorse.png": "/RamkumarR03/Chessboard-using-Reactjs/static/media/blackhorse.6cfe292a6ea8776e1d08.png",
+    "static/media/whitehorse.png": "/RamkumarR03/Chessboard-using-Reactjs/static/media/whitehorse.84de4f8a3540a63f2f00.png",
+    "static/media/whitebishop.png": "/RamkumarR03/Chessboard-using-Reactjs/static/media/whitebishop.545ff4fc67b13189fe66.png",
+    "static/media/whitepawn.png": "/RamkumarR03/Chessboard-using-Reactjs/static/media/whitepawn.0f69fe7bc2d0e060b2d4.png",
+    "static/media/whiteking.png": "/RamkumarR03/Chessboard-using-Reactjs/static/media/whiteking.34ac8ddc8314077087f4.png",
+    "index.html": "/RamkumarR03/Chessboard-using-Reactjs/index.html",
+    "main.45dcc111.css.map": "/RamkumarR03/Chessboard-using-Reactjs/static/css/main.45dcc111.css.map",
+    "main.ffa9af29.js.map": "/RamkumarR03/Chessboard-using-Reactjs/static/js/main.ffa9af29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45dcc111.css",
+    "static/js/main.ffa9af29.js"
+  ]
+}
